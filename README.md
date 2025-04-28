@@ -1,0 +1,2 @@
+# firdan-app
+aplikasi pertama
